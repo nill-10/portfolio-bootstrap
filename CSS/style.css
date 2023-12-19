@@ -1,0 +1,39 @@
+.navbar {
+    background-color: #ded5f9 !important;
+   
+}
+.collapse {
+    justify-content: flex-end !important;
+}
+
+
+.navbar-brand {
+    color: #231152 !important;
+}
+.nav-link {
+    color: #5430af !important;
+}
+.btn {
+    background-color: #231152;
+    color: #c7a7c9;
+}
+.container-fluid {
+    
+    background-color: #c8b6ff ;
+    
+}
+
+
+.h3 
+     {
+        display: flex;
+        position: relative !important;
+       justify-content:center;
+      padding-bottom: 10px;
+      margin-top: 20px;
+    
+}
+.img-fluid {
+    padding-top: 30px;
+   
+}
